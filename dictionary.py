@@ -44,5 +44,3 @@ with open('dialogues.text','r') as file_data:
 
 print(file_data.closed)
 
-l=[1,2,3,4,5]
-print(dic(l))
