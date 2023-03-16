@@ -44,9 +44,8 @@ with open('dialogues.text','r') as file_data:
 
 print(file_data.closed)
 
-<<<<<<< HEAD
 l=[1,2,3,4,5]
 print(dic(l))
 print(l)
-=======
->>>>>>> d6b28b2591f5ec62e82f719404f0afbb8d26ee69
+
+# Dictionary
